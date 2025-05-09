@@ -1,7 +1,9 @@
 🚀 ****Customer Satisfaction Prediction Project****
 
 🔍 ***Overview***
-Welcome to the Customer Satisfaction Prediction project! This machine learning initiative helps predict how satisfied customers are with their tech product support experience. By analyzing customer support ticket data, we aim to uncover patterns and build an accurate predictive model for satisfaction ratings (scale of 1 to 5). Whether you're a data science enthusiast or a business optimizing customer service, this project delivers valuable insights into customer behavior and support trends.
+      Welcome to the Customer Satisfaction Prediction project! This machine learning initiative helps predict how satisfied customers are with their tech product support experience. By analyzing 
+     customer support ticket data, we aim to uncover patterns and build an accurate predictive model for satisfaction ratings (scale of 1 to 5). Whether you're a data science enthusiast or a 
+     business optimizing customer service, this project delivers valuable insights into customer behavior and support trends.
 
 📌 ***What’s This Project About?***
 We’re working with a dataset of customer support tickets related to tech products like cameras, smart TVs, and software. Each ticket includes details such as: 📊 Customer Info – Age, gender, and email 📦 Product Details – What they purchased and when 📑 Ticket Details – Issue type (e.g., technical, billing), priority, and resolution details ⭐ Satisfaction Rating – Scale of 1–5, based on resolution experience
