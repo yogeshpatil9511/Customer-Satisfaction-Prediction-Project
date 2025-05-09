@@ -1,7 +1,7 @@
-🚀## *** Customer Satisfaction Prediction Project***
+## ***🚀Customer Satisfaction Prediction Project***
 
 
-🔍 ## **Overview**
+🔍 ##  ***Overview***
 Welcome to the Customer Satisfaction Prediction Project!
 This machine learning project predicts how satisfied customers 
 are with their tech product support experience. 
@@ -28,13 +28,13 @@ We're analyzing customer support tickets for tech products like cameras, smart T
 ## ***📂 Dataset***
 The dataset, sourced from Kaggle (customer_support_tickets.csv), contains 8,469 tickets with 17 features:
 
-## 🆔 Ticket ID: Unique identifier
-## 🎯 Customer Age/Gender: Demographic details
-## 🛒 Product Purchased: Tech product involved
-## 📝 Ticket Type/Subject: Nature of the issue
-## 🚦 Ticket Status/Priority: Current state and urgency
-## 📊 Customer Satisfaction Rating: Target variable (1–5, for closed tickets)
-#3 ⏳ Resolution Time: Time to resolve the issue
+🆔 Ticket ID: Unique identifier
+🎯 Customer Age/Gender: Demographic details
+🛒 Product Purchased: Tech product involved
+📝 Ticket Type/Subject: Nature of the issue
+🚦 Ticket Status/Priority: Current state and urgency
+📊 Customer Satisfaction Rating: Target variable (1–5, for closed tickets)
+⏳ Resolution Time: Time to resolve the issue
 
 
 
@@ -45,29 +45,28 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Environment: Jupyter Notebook, VS Code
 Domain: Data Science, Machine Learning
 
-##**🚀 Project Steps**
+## **🚀 Project Steps**
 
-## Data Preprocessing 🧹
+Data Preprocessing 🧹
 Clean data, handle missing values, encode categorical variables
 
 
-## Exploratory Data Analysis (EDA) 📊
+Exploratory Data Analysis (EDA) 📊
 Visualize trends (e.g., common ticket types, satisfaction by gender)
 
-
-## Feature Engineering ⚙️
+Feature Engineering ⚙️
 Prepare features for modeling (scaling, encoding)
 
 
-## Model Building 🤖
+Model Building 🤖
 Train a Random Forest Classifier to predict satisfaction
 
 
-## Model Evaluation 📈
+Model Evaluation 📈
 Assess accuracy and analyze feature importance
 
 
-## Visualizations 🎨
+Visualizations 🎨
 Create plots for trends, distributions, and insights
 
 
